@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+olmes she is always the woman. i have seldom heard him mention her under any other name. in his eyes"
+predicted chars = 
+ and such a street start.  i had no doubt that the street pass of the door of the door of the comone"
+-------------------
+input chars = 
+h intrusions into his own delicate and finely adjusted temperament was to introduce a distracting fa"
+predicted chars = 
+ce were all and sharp from the door of the door of the door of the door of the door of any from the "
+-------------------
+input chars = 
+ on the twentieth of march,    i was returning from a journey to a patient for i had now returned to"
+predicted chars = 
+ his heart of show a shall be have a complesed the some han and such a shall be had a prapes of a ma"
